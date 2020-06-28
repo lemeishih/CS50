@@ -235,6 +235,8 @@ vignettes/*.pdf
 /*_files/
 
 ### VisualStudioCode ###
+.vscode*
+.DS_Store*
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
